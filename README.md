@@ -7,6 +7,4 @@ Now, I have to admit. It Might be a bit slow, since it has to evaluate and run a
 ## Ok, but Why?
 Honestly, I don't know. Why does PyScript exist.
 ## How to? it sounds pretty nice!
-Just edit the content of the [`main.py`](https://github.com/okok7711/md-in-html/blob/master/main.py) with your Markdown, refresh the site, and boom!
-## TODO
-- Read the Readme, so you dont need to look into python at all
+Just edit the content of the [`README.md`](https://github.com/okok7711/md-in-html/blob/master/README.md) with your Markdown, refresh the site, and boom! This will fetch your local README and render its content accordingly
