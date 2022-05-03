@@ -6,3 +6,7 @@ Add some CSS to make it look like GitHub's markdown using a modified version of 
 Now, I have to admit. It Might be a bit slow, since it has to evaluate and run all the python code before anything is displayed. BUT, no one cares.
 ## Ok, but Why?
 Honestly, I don't know. Why does PyScript exist.
+## How to? it sounds pretty nice!
+Just edit the content of the [`main.py`](https://github.com/okok7711/md-in-html/blob/master/main.py) with your Markdown, refresh the site, and boom!
+## TODO
+- Read the Readme, so you dont need to look into python at all
